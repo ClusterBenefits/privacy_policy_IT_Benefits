@@ -60,4 +60,4 @@ This policy is effective as of 2020-10-25
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at itbenefitscard@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <itbenefitscard@gmail.com>.
